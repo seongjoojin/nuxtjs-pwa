@@ -1,5 +1,7 @@
 # nuxt-pwa
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/seongjoojin/nuxtjs-pwa.svg)](https://greenkeeper.io/)
+
 > My mind-blowing Nuxt.js project
 
 ## Build Setup
